@@ -1,2 +1,5 @@
-# morbid-reality-bbs-2
-Morbid Reality BBStro 2 for MS-DOS, 1997.
+# Morbid Reality BBStro 2
+
+#### Written in 1997 for MS-DOS.
+
+[Original package](https://defacto2.net/f/b42ac06)
